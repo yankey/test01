@@ -2,7 +2,7 @@
     pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %> 
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
-모에요?
+모에요?zzz
 <table width="500" cellpadding="0" cellspacing="0" border="1">
 	<tr> 
 		<td>이름</td>
